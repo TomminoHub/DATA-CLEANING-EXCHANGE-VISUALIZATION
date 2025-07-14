@@ -1,1 +1,2 @@
-# DATA-CLEANING-EXCHANGE-VISUALIZATION
+# DATA-CLEANING-EXCHANGE-VISUALIZATION-OF-FOOTBALL-ARTICLES
+This project implements a complete data pipeline for structured information stored in XML format, focusing on data cleaning, transformation, and visualization. It begins by parsing XML files to extract and standardize relevant data, handling common inconsistencies and formatting issues through custom cleaning routines. Once the data is cleaned and structured, it is loaded into dataframes for further analysis and visual exploration using plots and charts. The pipeline showcases how XML can serve as a robust medium for data exchange while highlighting the importance of preprocessing and visualization in extracting actionable insights from semi-structured data.
